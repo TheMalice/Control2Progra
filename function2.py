@@ -1,5 +1,5 @@
 from DP_functions import word_wrap, wordBreak
-from justified import justify
+from function1 import justify
 from CRUD_file import read_text_from_file
     
 def longest_common_substring(s1, s2):
